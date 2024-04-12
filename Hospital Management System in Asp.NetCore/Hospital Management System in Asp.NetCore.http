@@ -1,0 +1,6 @@
+@Hospital_Management_System_in_Asp.NetCore_HostAddress = http://localhost:5247
+
+GET {{Hospital_Management_System_in_Asp.NetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
